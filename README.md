@@ -1,4 +1,4 @@
-![image](./docs/logo.png)
+![The Kraken](./docs/logo.png)
 
 awesome-knowledge-kraken
 ======
